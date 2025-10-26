@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/adhavan18/leet/tree/master/0011-container-with-most-water) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/adhavan18/leet/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/adhavan18/leet/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/adhavan18/leet/tree/master/2169-simple-bank-system) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/adhavan18/leet/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/adhavan18/leet/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/adhavan18/leet/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/adhavan18/leet/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2169-simple-bank-system](https://github.com/adhavan18/leet/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/adhavan18/leet/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/adhavan18/leet/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 ## String
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/adhavan18/leet/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2169-simple-bank-system](https://github.com/adhavan18/leet/tree/master/2169-simple-bank-system) |
 ## Sliding Window
 |  |
 | ------- |
@@ -106,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2174-next-greater-numerically-balanced-number](https://github.com/adhavan18/leet/tree/master/2174-next-greater-numerically-balanced-number) |
+## Design
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/adhavan18/leet/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
