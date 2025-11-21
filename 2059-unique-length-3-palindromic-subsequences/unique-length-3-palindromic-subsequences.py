@@ -11,7 +11,7 @@ class Solution:
             
             if first == last:
                 continue
-                
+            
             middle = set(s[first+1:last])
             count += len(middle)
         
