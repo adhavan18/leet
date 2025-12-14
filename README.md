@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1015-smallest-integer-divisible-by-k](https://github.com/adhavan18/leet/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/adhavan18/leet/tree/master/1636-number-of-substrings-with-only-1s) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/adhavan18/leet/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/adhavan18/leet/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/adhavan18/leet/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/adhavan18/leet/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/adhavan18/leet/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/adhavan18/leet/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/adhavan18/leet/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/adhavan18/leet/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/adhavan18/leet/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/adhavan18/leet/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/adhavan18/leet/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/adhavan18/leet/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/adhavan18/leet/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/adhavan18/leet/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/adhavan18/leet/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/adhavan18/leet/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/adhavan18/leet/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/adhavan18/leet/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
