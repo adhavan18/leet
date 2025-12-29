@@ -5,6 +5,7 @@ class Solution:
         mp = defaultdict(list)
         for a, b, c in allowed:
             mp[a+b].append(c)
+        @lru_cache(None)
         def dfs(row: str) -> bool:
             if len(row) == 1:
                 return True
