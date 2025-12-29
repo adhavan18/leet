@@ -2,9 +2,10 @@ class Solution:
     def pyramidTransition(self, bottom: str, allowed: List[str]) -> bool:
         from collections import defaultdict
         from functools import lru_cache 
-        map = defaultdict(list)
+        mp = defaultdict(list)
         for a, b, c in allowed:
-            map[a+b].append(c)
+            mp[a+b].append(c)
+        @lru_cache(None)
         def dfs(row: str) -> bool:
             if len(row) == 1:
                 return True
@@ -14,10 +15,10 @@ class Solution:
                     return dfs(next_row)
 
                 pair = row[i:i+2]
-                if pair not in map:
+                if pair not in mp:
                     return False
 
-                for ch in map[pair]:
+                for ch in mp[pair]:
                     if backtrack(i + 1, next_row + ch):
                         return True
 
