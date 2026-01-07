@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/adhavan18/leet/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/adhavan18/leet/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2092-find-all-people-with-secret](https://github.com/adhavan18/leet/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/adhavan18/leet/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/adhavan18/leet/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/adhavan18/leet/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Geometry
 |  |
@@ -321,4 +323,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/adhavan18/leet/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
+## Binary Tree
+|  |
+| ------- |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/adhavan18/leet/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 <!---LeetCode Topics End-->
