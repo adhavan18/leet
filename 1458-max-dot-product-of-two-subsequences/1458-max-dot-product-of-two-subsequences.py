@@ -1,27 +1,7 @@
 class Solution:
-    def maxDotProduct(self, nums1: List[int], nums2: List[int]) -> int:
-        n, m = len(nums1), len(nums2)
-        
-        if m > n:
-            return self.maxDotProduct(nums2, nums1)
-            
-        dp = [float('-inf')] * (m + 1)
-        
-        for i in range(1, n + 1):
-            prev_diag = float('-inf')
-            
-            for j in range(1, m + 1):
-                curr_product = nums1[i-1] * nums2[j-1]
-                
-                temp = dp[j]
-                
-                dp[j] = max(
-                    curr_product,               
-                    curr_product + prev_diag,   
-                    dp[j],                       
-                    dp[j-1]                      
-                )
-                
-                prev_diag = temp
+    def maxDotProduct(self, a: List[int], b: List[int]) -> int:
+        for a,b in (a,b),(b,a):
+            if all(v<0 for v in a) and all(v>0 for v in b): return max(a)*min(b)
 
-        return dp[m]
+        return (f:=cache(lambda i,j:i<len(a) and j<len(b) 
+            and max(a[i]*b[j]+f(i+1,j+1),f(i+1,j),f(i,j+1))))(0,0)
