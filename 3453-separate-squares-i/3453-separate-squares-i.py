@@ -1,33 +1,25 @@
 class Solution:
-    def separateSquares(self, squares):
-        # total area
-        total = 0
+    def separateSquares(self, squares: List[List[int]]) -> float:
+        low, high, total_area = float('inf'), float('-inf'), 0
+
         for x, y, l in squares:
-            total += l * l
-        half = total / 2.0
+            total_area += l*l
+            low = min(low, y)
+            high = max(high, y+l)
+        
+        target_area = total_area / 2.0
 
-        def area_below(h):
-            area = 0.0
-            for x, y, l in squares:
-                bottom = y
-                top = y + l
-                if h <= bottom:
-                    continue
-                elif h >= top:
-                    area += l * l
-                else:
-                    area += (h - bottom) * l
-            return area
+        for i in range(60):
+            mid = (low+high) / 2.0
 
-        # binary search on y
-        low = min(y for _, y, _ in squares)
-        high = max(y + l for _, y, l in squares)
-
-        for _ in range(60):  # enough for 1e-5 precision
-            mid = (low + high) / 2
-            if area_below(mid) < half:
+            curr_area = 0
+            for _, y, l in squares:
+                curr_y = max(0, min(l, mid-y))
+                curr_area += l*curr_y
+            
+            if curr_area < target_area:
                 low = mid
             else:
                 high = mid
 
-        return low
+        return mid
