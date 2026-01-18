@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1580-shuffle-the-array](https://github.com/adhavan18/leet/tree/master/1580-shuffle-the-array) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/adhavan18/leet/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/adhavan18/leet/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1895-largest-magic-square](https://github.com/adhavan18/leet/tree/master/1895-largest-magic-square) |
 | [2054-two-best-non-overlapping-events](https://github.com/adhavan18/leet/tree/master/2054-two-best-non-overlapping-events) |
 | [2058-concatenation-of-array](https://github.com/adhavan18/leet/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/adhavan18/leet/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1895-largest-magic-square](https://github.com/adhavan18/leet/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/adhavan18/leet/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2625-increment-submatrices-by-one](https://github.com/adhavan18/leet/tree/master/2625-increment-submatrices-by-one) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/adhavan18/leet/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/adhavan18/leet/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/adhavan18/leet/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/adhavan18/leet/tree/master/0840-magic-squares-in-grid) |
+| [1895-largest-magic-square](https://github.com/adhavan18/leet/tree/master/1895-largest-magic-square) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/adhavan18/leet/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/adhavan18/leet/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2625-increment-submatrices-by-one](https://github.com/adhavan18/leet/tree/master/2625-increment-submatrices-by-one) |
