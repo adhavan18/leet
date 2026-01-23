@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3453-separate-squares-i](https://github.com/adhavan18/leet/tree/master/3453-separate-squares-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/adhavan18/leet/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/adhavan18/leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/adhavan18/leet/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/adhavan18/leet/tree/master/3531-count-covered-buildings) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/adhavan18/leet/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/adhavan18/leet/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/adhavan18/leet/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/adhavan18/leet/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/adhavan18/leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/adhavan18/leet/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/adhavan18/leet/tree/master/3531-count-covered-buildings) |
 | [3583-count-special-triplets](https://github.com/adhavan18/leet/tree/master/3583-count-special-triplets) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/adhavan18/leet/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -259,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/adhavan18/leet/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2402-meeting-rooms-iii](https://github.com/adhavan18/leet/tree/master/2402-meeting-rooms-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/adhavan18/leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/adhavan18/leet/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -311,12 +314,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/adhavan18/leet/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/adhavan18/leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/adhavan18/leet/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/adhavan18/leet/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/adhavan18/leet/tree/master/2402-meeting-rooms-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/adhavan18/leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/adhavan18/leet/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/adhavan18/leet/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3863-power-grid-maintenance](https://github.com/adhavan18/leet/tree/master/3863-power-grid-maintenance) |
 ## Union Find
@@ -333,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/adhavan18/leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/adhavan18/leet/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3863-power-grid-maintenance](https://github.com/adhavan18/leet/tree/master/3863-power-grid-maintenance) |
 ## Memoization
 |  |
@@ -375,4 +381,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/adhavan18/leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/adhavan18/leet/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 <!---LeetCode Topics End-->
