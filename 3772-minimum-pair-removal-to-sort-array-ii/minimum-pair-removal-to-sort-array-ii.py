@@ -1,61 +1,41 @@
+import heapq
 class Solution:
-    def minimumPairRemoval(self, nums: list[int]) -> int:
-        N = len(nums)
-        if N < 2:
-            return 0
+    def minimumPairRemoval(self, nums: List[int]) -> int:
+        n= len(nums)
+        pq = []
+        decrease = 0
+        lo = list(range(n))
+        hi = list(range(n))
+        for i , (x, y) in enumerate(pairwise(nums)):
+            if x > y:
+                decrease +=1
+            heappush(pq , (x+y, i, i+1, x, y))
         
-        array = [int(x) for x in nums]
-        left = list(range(-1, N - 1))
-        right = list(range(1, N + 1))
-        
-        flipped = 0
-        pairSum = SortedList()
-        
-        def add(i, N, array):
-            nonlocal flipped
-            if 0 <= i < N:
-                j = right[i]
-                if j < N:
-                    pairSum.add([array[i] + array[j], i])
-                    if array[i] > array[j]:
-                        flipped += 1
-                        
-        def remove(i, N, array):
-            nonlocal flipped
-            if 0 <= i < N:
-                j = right[i]
-                if j < N:
-                    if array[i] > array[j]:
-                        flipped -= 1
-                    pairSum.discard([array[i] + array[j], i])
+        ans = 0
+        while decrease:
+            v , i , j , x , y = heappop(pq)
+            if x == nums[i] and y == nums[j]:
+                if nums[i] > nums[j]: decrease -= 1
+                hi[i] = hi[j]
+                lo[hi[j]] = i
 
-        for i in range(N - 1):
-            if array[i] > array[i + 1]:
-                flipped += 1
-            pairSum.add([array[i] + array[i + 1], i])
-            
-        op = 0
-        
-        while flipped > 0 and pairSum:
-            s, i = pairSum.pop(0)
-            
-            j = right[i]
-            h = left[i]
-            k = right[j]
-            
-            remove(h, N, array)
-            if array[i] > array[j]:
-                flipped -= 1
-            remove(j, N, array)
-            
-            array[i] += array[j]
-            op += 1
-            
-            right[i] = k
-            if k < N:
-                left[k] = i
+                if i :
+                    pre = lo[i-1]
+                    if nums[pre]>nums[i] and nums[pre] <= v:
+                        decrease -=1
+                    if nums[pre] <= nums[i] and nums[pre] > v:
+                        decrease +=1
+                    heappush(pq , (nums[pre] + v , pre , i , nums[pre] , v))
+
+                if hi[j] + 1 <n:
+                    nxt = hi[j] + 1
+                    if nums[j] <= nums[nxt] and v> nums[nxt]:
+                        decrease +=1
+                    if nums[j] > nums[nxt] and nums[nxt]>=v:
+                        decrease -= 1
+                    heappush(pq, (v+nums[nxt] , i , nxt , v , nums[nxt]))
                 
-            add(h, N, array)
-            add(i, N, array)
-            
-        return op
+                nums[i] = v
+                nums[j] = None
+                ans += 1
+        return ans
