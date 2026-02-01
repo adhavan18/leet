@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/adhavan18/leet/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/adhavan18/leet/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/adhavan18/leet/tree/master/2976-minimum-cost-to-convert-string-i) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/adhavan18/leet/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/adhavan18/leet/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/adhavan18/leet/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/adhavan18/leet/tree/master/3314-construct-the-minimum-bitwise-array-i) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/adhavan18/leet/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/adhavan18/leet/tree/master/2402-meeting-rooms-iii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/adhavan18/leet/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/adhavan18/leet/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3531-count-covered-buildings](https://github.com/adhavan18/leet/tree/master/3531-count-covered-buildings) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/adhavan18/leet/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/adhavan18/leet/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/adhavan18/leet/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/adhavan18/leet/tree/master/2174-next-greater-numerically-balanced-number) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/adhavan18/leet/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/adhavan18/leet/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/adhavan18/leet/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Simulation
 |  |
