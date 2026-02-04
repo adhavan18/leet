@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/adhavan18/leet/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3623-count-number-of-trapezoids-i](https://github.com/adhavan18/leet/tree/master/3623-count-number-of-trapezoids-i) |
 | [3637-trionic-array-i](https://github.com/adhavan18/leet/tree/master/3637-trionic-array-i) |
+| [3640-trionic-array-ii](https://github.com/adhavan18/leet/tree/master/3640-trionic-array-ii) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/adhavan18/leet/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/adhavan18/leet/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/adhavan18/leet/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/adhavan18/leet/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/adhavan18/leet/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/adhavan18/leet/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3640-trionic-array-ii](https://github.com/adhavan18/leet/tree/master/3640-trionic-array-ii) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/adhavan18/leet/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bit Manipulation
 |  |
