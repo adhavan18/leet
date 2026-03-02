@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/adhavan18/leet/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1390-four-divisors](https://github.com/adhavan18/leet/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/adhavan18/leet/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/adhavan18/leet/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/adhavan18/leet/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1580-shuffle-the-array](https://github.com/adhavan18/leet/tree/master/1580-shuffle-the-array) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/adhavan18/leet/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0759-set-intersection-size-at-least-two](https://github.com/adhavan18/leet/tree/master/0759-set-intersection-size-at-least-two) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/adhavan18/leet/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1382-balance-a-binary-search-tree](https://github.com/adhavan18/leet/tree/master/1382-balance-a-binary-search-tree) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/adhavan18/leet/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/adhavan18/leet/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/adhavan18/leet/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/adhavan18/leet/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/adhavan18/leet/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/adhavan18/leet/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/adhavan18/leet/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/adhavan18/leet/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1895-largest-magic-square](https://github.com/adhavan18/leet/tree/master/1895-largest-magic-square) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/adhavan18/leet/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/adhavan18/leet/tree/master/2343-count-unguarded-cells-in-the-grid) |
