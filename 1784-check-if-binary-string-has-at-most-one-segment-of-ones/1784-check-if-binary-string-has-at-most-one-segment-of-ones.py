@@ -1,5 +1,8 @@
 class Solution:
     def checkOnesSegment(self, s: str) -> bool:
+        
+        return '01' not in s
+
         #seen_zero = False
 
         #for c in s:
@@ -9,5 +12,3 @@ class Solution:
             #    return False
 
         #return True
-
-        return '01' not in s
