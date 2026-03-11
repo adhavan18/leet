@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0693-binary-number-with-alternating-bits](https://github.com/adhavan18/leet/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/adhavan18/leet/tree/master/0756-pyramid-transition-matrix) |
 | [0868-binary-gap](https://github.com/adhavan18/leet/tree/master/0868-binary-gap) |
+| [1009-complement-of-base-10-integer](https://github.com/adhavan18/leet/tree/master/1009-complement-of-base-10-integer) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/adhavan18/leet/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/adhavan18/leet/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/adhavan18/leet/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
