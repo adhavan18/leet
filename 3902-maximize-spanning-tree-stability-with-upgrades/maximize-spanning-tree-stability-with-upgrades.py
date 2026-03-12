@@ -1,80 +1,68 @@
-class DSU:
-    def __init__(self, n):
-        self.parent = list(range(n))
-        self.rank = [0] * n
-        self.components = n
-
-    def find(self, x):
-        if self.parent[x] != x:
-            self.parent[x] = self.find(self.parent[x])
-        return self.parent[x]
-
-    def unite(self, a, b):
-        pa = self.find(a)
-        pb = self.find(b)
-
-        if pa == pb:
-            return False
-
-        if self.rank[pa] < self.rank[pb]:
-            pa, pb = pb, pa
-
-        self.parent[pb] = pa
-
-        if self.rank[pa] == self.rank[pb]:
-            self.rank[pa] += 1
-
-        self.components -= 1
-        return True
-
-
-class Solution:
-    def canAchieve(self, n, edges, k, x):
-        dsu = DSU(n)
-
-        # Mandatory edges
-        for u, v, s, must in edges:
-            if must == 1:
-                if s < x:
-                    return False
-                if not dsu.unite(u, v):
-                    return False
-
-        # Free optional edges
-        for u, v, s, must in edges:
-            if must == 0 and s >= x:
-                dsu.unite(u, v)
-
-        # Upgrade edges
-        used_upgrades = 0
-
-        for u, v, s, must in edges:
-            if must == 0 and s < x and 2 * s >= x:
-                if dsu.unite(u, v):
-                    used_upgrades += 1
-                    if used_upgrades > k:
-                        return False
-
-        return dsu.components == 1
+class Solution(object):
 
     def maxStability(self, n, edges, k):
-        # Check mandatory edges cycle
-        dsu = DSU(n)
-        for u, v, s, must in edges:
-            if must == 1:
-                if not dsu.unite(u, v):
-                    return -1
 
-        low, high = 1, 200000
-        ans = -1
+        parent = list(range(n))
+        size = [1] * n
+        components = [n]
 
-        while low <= high:
-            mid = (low + high) // 2
+        def find(x):
+            if parent[x] != x:
+                parent[x] = find(parent[x])
+            return parent[x]
 
-            if self.canAchieve(n, edges, k, mid):
-                ans = mid
-                low = mid + 1
+        def union(u,v):
+            pu = find(u)
+            pv = find(v)
+
+            if pu == pv:
+                return False
+
+            components[0] -= 1
+
+            if size[pu] > size[pv]:
+                parent[pv] = pu
+                size[pu] += size[pv]
             else:
-                high = mid - 1
+                parent[pu] = pv
+                size[pv] += size[pu]
 
-        return ans
+            return True
+
+        must = []
+        flex = []
+
+        for e in edges:
+            if e[3] == 1:
+                must.append(e)
+            else:
+                flex.append(e)
+
+        mini = float('inf')
+
+        for u,v,w,t in must:
+            mini = min(mini,w)
+            if not union(u,v):
+                return -1
+
+        flex.sort(key=lambda x: -x[2])
+
+        import heapq
+        pq = []
+
+        for u,v,w,t in flex:
+            if union(u,v):
+                heapq.heappush(pq,w)
+
+        while k > 0 and pq:
+            x = heapq.heappop(pq)
+            mini = min(mini, 2*x)
+            k -= 1
+
+        if components[0] != 1:
+            return -1
+
+        if pq:
+            return min(mini, pq[0])
+
+        return mini
