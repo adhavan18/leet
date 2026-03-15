@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1015-smallest-integer-divisible-by-k](https://github.com/adhavan18/leet/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1266-minimum-time-visiting-all-points](https://github.com/adhavan18/leet/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/adhavan18/leet/tree/master/1390-four-divisors) |
+| [1622-fancy-sequence](https://github.com/adhavan18/leet/tree/master/1622-fancy-sequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/adhavan18/leet/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/adhavan18/leet/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/adhavan18/leet/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/adhavan18/leet/tree/master/1622-fancy-sequence) |
 | [2169-simple-bank-system](https://github.com/adhavan18/leet/tree/master/2169-simple-bank-system) |
 ## Matrix
 |  |
@@ -498,6 +500,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [1622-fancy-sequence](https://github.com/adhavan18/leet/tree/master/1622-fancy-sequence) |
 | [3719-longest-balanced-subarray-i](https://github.com/adhavan18/leet/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/adhavan18/leet/tree/master/3721-longest-balanced-subarray-ii) |
 ## Union-Find
