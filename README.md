@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/adhavan18/leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/adhavan18/leet/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3531-count-covered-buildings](https://github.com/adhavan18/leet/tree/master/3531-count-covered-buildings) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/adhavan18/leet/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/adhavan18/leet/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/adhavan18/leet/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/adhavan18/leet/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/adhavan18/leet/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/adhavan18/leet/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3531-count-covered-buildings](https://github.com/adhavan18/leet/tree/master/3531-count-covered-buildings) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/adhavan18/leet/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/adhavan18/leet/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/adhavan18/leet/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 ## Binary Search
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/adhavan18/leet/tree/master/2625-increment-submatrices-by-one) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/adhavan18/leet/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/adhavan18/leet/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/adhavan18/leet/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 ## Stack
 |  |
 | ------- |
