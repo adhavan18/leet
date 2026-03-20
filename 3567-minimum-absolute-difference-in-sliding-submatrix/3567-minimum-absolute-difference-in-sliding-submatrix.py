@@ -1,4 +1,3 @@
-# Added using AI
 class Solution:
     def minAbsDiff(self, grid: list[list[int]], k: int) -> list[list[int]]:
         m, n = len(grid), len(grid[0])
