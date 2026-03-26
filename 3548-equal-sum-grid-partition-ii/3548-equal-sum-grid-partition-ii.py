@@ -1,7 +1,11 @@
 import collections
 
-class Solution:
-    def canPartitionGrid(self, grid: List[List[int]]) -> bool:
+class Solution(object):
+    def canPartitionGrid(self, grid):
+        """
+        :type grid: List[List[int]]
+        :rtype: bool
+        """
         n = len(grid)
         m = len(grid[0])
         
@@ -28,11 +32,12 @@ class Solution:
         def can_remove(r1, c1, r2, c2, i, j):
             rows = r2 - r1 + 1
             cols = c2 - c1 + 1
-            if rows * cols == 1: return False
+            if rows * cols <= 1: return False
             if rows == 1: return j == c1 or j == c2
             if cols == 1: return i == r1 or i == r2
             return True
 
+        
         for i in range(n - 1):
             top = pref_row[i]
             bottom = total - top
@@ -40,15 +45,15 @@ class Solution:
             
             diff = abs(top - bottom)
             if diff in mp:
-                if top > bottom:
-                    for x, y in mp[diff]:
+                for x, y in mp[diff]:
+                    if top > bottom:
                         if x <= i and can_remove(0, 0, i, m - 1, x, y):
                             return True
-                else:
-                    for x, y in mp[diff]:
+                    else:
                         if x > i and can_remove(i + 1, 0, n - 1, m - 1, x, y):
                             return True
                             
+        
         for j in range(m - 1):
             left = pref_col[j]
             right = total - left
@@ -56,12 +61,11 @@ class Solution:
             
             diff = abs(left - right)
             if diff in mp:
-                if left > right:
-                    for x, y in mp[diff]:
+                for x, y in mp[diff]:
+                    if left > right:
                         if y <= j and can_remove(0, 0, n - 1, j, x, y):
                             return True
-                else:
-                    for x, y in mp[diff]:
+                    else:
                         if y > j and can_remove(0, j + 1, n - 1, m - 1, x, y):
                             return True
                             
