@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/adhavan18/leet/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/adhavan18/leet/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2573-find-the-string-with-lcp](https://github.com/adhavan18/leet/tree/master/2573-find-the-string-with-lcp) |
+| [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/adhavan18/leet/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/adhavan18/leet/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/adhavan18/leet/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/adhavan18/leet/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
