@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adhavan18/leet/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/adhavan18/leet/tree/master/0011-container-with-most-water) |
 | [0056-merge-intervals](https://github.com/adhavan18/leet/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/adhavan18/leet/tree/master/0066-plus-one) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/adhavan18/leet/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/adhavan18/leet/tree/master/0073-set-matrix-zeroes) |
 | [0756-pyramid-transition-matrix](https://github.com/adhavan18/leet/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/adhavan18/leet/tree/master/0840-magic-squares-in-grid) |
