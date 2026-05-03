@@ -11,6 +11,7 @@ class Solution:
         dc = [1, 0, -1, 0]
 
         r, c = 0, 0
+        #r[idx], c[idx]
         idx = 0
         for _ in range(m*n):
             res.append(matrix[r][c])
