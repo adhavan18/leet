@@ -1,17 +1,24 @@
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
-        #constrain 1 = longest "consecutive" sequence
-        #idc, if elements repeat
-        n = set(nums) #fast lookup
-        count = 0
-
-        for i in n:
-            if i - 1 not in n:
-                curr = i
-                current = 1
-                while curr + 1 in n:
-                    curr += 1
-                    current += 1
-                count = max(count, current)
-        return count
+        if not nums: return 0
+        parent = {n: n for n in nums}
+        size = {n: 1 for n in nums}
         
+        def find(i):
+            if parent[i] == i: return i
+            parent[i] = find(parent[i])
+            return parent[i]
+
+        def union(i, j):
+            root_i, root_j = find(i), find(j)
+            if root_i != root_j:
+                parent[root_i] = root_j
+                size[root_j] += size[root_i]
+                return size[root_j]
+            return size[root_i]
+
+        res = 1
+        for n in nums:
+            if n + 1 in parent:
+                res = max(res, union(n, n + 1))
+        return res
