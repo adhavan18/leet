@@ -1,24 +1,17 @@
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
         if not nums: return 0
-        parent = {n: n for n in nums}
-        size = {n: 1 for n in nums}
         
-        def find(i):
-            if parent[i] == i: return i
-            parent[i] = find(parent[i])
-            return parent[i]
-
-        def union(i, j):
-            root_i, root_j = find(i), find(j)
-            if root_i != root_j:
-                parent[root_i] = root_j
-                size[root_j] += size[root_i]
-                return size[root_j]
-            return size[root_i]
-
-        res = 1
-        for n in nums:
-            if n + 1 in parent:
-                res = max(res, union(n, n + 1))
-        return res
+        nums.sort()
+        longest_streak = 1
+        current_streak = 1
+        
+        for i in range(1, len(nums)):
+            if nums[i] != nums[i-1]: # Skip duplicates
+                if nums[i] == nums[i-1] + 1:
+                    current_streak += 1
+                else:
+                    longest_streak = max(longest_streak, current_streak)
+                    current_streak = 1
+        
+        return max(longest_streak, current_streak)
