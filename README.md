@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1458-max-dot-product-of-two-subsequences](https://github.com/adhavan18/leet/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/adhavan18/leet/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/adhavan18/leet/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
+| [1572-matrix-diagonal-sum](https://github.com/adhavan18/leet/tree/master/1572-matrix-diagonal-sum) |
 | [1580-shuffle-the-array](https://github.com/adhavan18/leet/tree/master/1580-shuffle-the-array) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/adhavan18/leet/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/adhavan18/leet/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/adhavan18/leet/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/adhavan18/leet/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/adhavan18/leet/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1572-matrix-diagonal-sum](https://github.com/adhavan18/leet/tree/master/1572-matrix-diagonal-sum) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/adhavan18/leet/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/adhavan18/leet/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/adhavan18/leet/tree/master/1727-largest-submatrix-with-rearrangements) |
