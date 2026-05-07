@@ -13,7 +13,6 @@
             #        num = num // 2
              #   count .append(c)
         #return count
-from typing import List
 class Solution:
     def countBits(self, n):
         ans = [0] * (n + 1)
