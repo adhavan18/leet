@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0085-maximal-rectangle](https://github.com/adhavan18/leet/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adhavan18/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/adhavan18/leet/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/adhavan18/leet/tree/master/0396-rotate-function) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/adhavan18/leet/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/adhavan18/leet/tree/master/0788-rotated-digits) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/adhavan18/leet/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/adhavan18/leet/tree/master/0190-reverse-bits) |
+| [0338-counting-bits](https://github.com/adhavan18/leet/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/adhavan18/leet/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/adhavan18/leet/tree/master/0693-binary-number-with-alternating-bits) |
 | [0756-pyramid-transition-matrix](https://github.com/adhavan18/leet/tree/master/0756-pyramid-transition-matrix) |
