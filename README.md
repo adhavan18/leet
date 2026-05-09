@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/adhavan18/leet/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/adhavan18/leet/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/adhavan18/leet/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/adhavan18/leet/tree/master/0338-counting-bits) |
 | [0401-binary-watch](https://github.com/adhavan18/leet/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/adhavan18/leet/tree/master/0693-binary-number-with-alternating-bits) |
@@ -618,6 +619,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/adhavan18/leet/tree/master/0190-reverse-bits) |
+| [0191-number-of-1-bits](https://github.com/adhavan18/leet/tree/master/0191-number-of-1-bits) |
 | [1382-balance-a-binary-search-tree](https://github.com/adhavan18/leet/tree/master/1382-balance-a-binary-search-tree) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/adhavan18/leet/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/adhavan18/leet/tree/master/3719-longest-balanced-subarray-i) |
