@@ -523,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/adhavan18/leet/tree/master/0061-rotate-list) |
+| [0092-reverse-linked-list-ii](https://github.com/adhavan18/leet/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/adhavan18/leet/tree/master/0206-reverse-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/adhavan18/leet/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/adhavan18/leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
