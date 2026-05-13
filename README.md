@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/adhavan18/leet/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/adhavan18/leet/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/adhavan18/leet/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/adhavan18/leet/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/adhavan18/leet/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/adhavan18/leet/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/adhavan18/leet/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/adhavan18/leet/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/adhavan18/leet/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/adhavan18/leet/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/adhavan18/leet/tree/master/1895-largest-magic-square) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/adhavan18/leet/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/adhavan18/leet/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/adhavan18/leet/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/adhavan18/leet/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1674-minimum-moves-to-make-array-complementary](https://github.com/adhavan18/leet/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/adhavan18/leet/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2169-simple-bank-system](https://github.com/adhavan18/leet/tree/master/2169-simple-bank-system) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/adhavan18/leet/tree/master/2174-next-greater-numerically-balanced-number) |
