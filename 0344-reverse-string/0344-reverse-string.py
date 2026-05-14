@@ -1,4 +1,4 @@
 class Solution:
     def reverseString(self, s: List[str]) -> None:
         #s.reverse()
-        s[ : ]=s[ : : -1]
+        s[:]=s[::-1]
