@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3643-flip-square-submatrix-vertically](https://github.com/adhavan18/leet/tree/master/3643-flip-square-submatrix-vertically) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/adhavan18/leet/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/adhavan18/leet/tree/master/3655-xor-after-range-multiplication-queries-ii) |
+| [3660-jump-game-ix](https://github.com/adhavan18/leet/tree/master/3660-jump-game-ix) |
 | [3719-longest-balanced-subarray-i](https://github.com/adhavan18/leet/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/adhavan18/leet/tree/master/3721-longest-balanced-subarray-ii) |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/adhavan18/leet/tree/master/3740-minimum-distance-between-three-equal-elements-i) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/adhavan18/leet/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/adhavan18/leet/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3640-trionic-array-ii](https://github.com/adhavan18/leet/tree/master/3640-trionic-array-ii) |
+| [3660-jump-game-ix](https://github.com/adhavan18/leet/tree/master/3660-jump-game-ix) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/adhavan18/leet/tree/master/3742-maximum-path-score-in-a-grid) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/adhavan18/leet/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Bit Manipulation
