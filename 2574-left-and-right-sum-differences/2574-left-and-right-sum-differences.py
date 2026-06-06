@@ -5,15 +5,8 @@ class Solution:
         answer = []
 
         for i in range(len(nums)):
-            leftSum = 0
-            rightSum = 0
-
-            for j in range(len(nums)):
-                if j < i:
-                    leftSum += nums[j]
-                elif j > i:
-                    rightSum += nums[j]
-
+            leftSum = sum(nums[:i])
+            rightSum = sum(nums[i + 1:])
             answer.append(abs(leftSum - rightSum))
 
         return answer
