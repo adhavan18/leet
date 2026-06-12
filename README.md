@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3531-count-covered-buildings](https://github.com/adhavan18/leet/tree/master/3531-count-covered-buildings) |
 | [3546-equal-sum-grid-partition-i](https://github.com/adhavan18/leet/tree/master/3546-equal-sum-grid-partition-i) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/adhavan18/leet/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/adhavan18/leet/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/adhavan18/leet/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/adhavan18/leet/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/adhavan18/leet/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/adhavan18/leet/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/adhavan18/leet/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/adhavan18/leet/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/adhavan18/leet/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/adhavan18/leet/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/adhavan18/leet/tree/master/3623-count-number-of-trapezoids-i) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/adhavan18/leet/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3225-maximum-score-from-grid-operations](https://github.com/adhavan18/leet/tree/master/3225-maximum-score-from-grid-operations) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/adhavan18/leet/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/adhavan18/leet/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/adhavan18/leet/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/adhavan18/leet/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/adhavan18/leet/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3640-trionic-array-ii](https://github.com/adhavan18/leet/tree/master/3640-trionic-array-ii) |
@@ -260,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/adhavan18/leet/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/adhavan18/leet/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/adhavan18/leet/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/adhavan18/leet/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/adhavan18/leet/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/adhavan18/leet/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Combinatorics
@@ -468,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/adhavan18/leet/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2092-find-all-people-with-secret](https://github.com/adhavan18/leet/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/adhavan18/leet/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/adhavan18/leet/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3863-power-grid-maintenance](https://github.com/adhavan18/leet/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
@@ -651,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/adhavan18/leet/tree/master/1382-balance-a-binary-search-tree) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/adhavan18/leet/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/adhavan18/leet/tree/master/2872-maximum-number-of-k-divisible-components) |
+| [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/adhavan18/leet/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 ## Geometry
 |  |
 | ------- |
