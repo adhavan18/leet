@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/adhavan18/leet/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/adhavan18/leet/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/adhavan18/leet/tree/master/0033-search-in-rotated-sorted-array) |
+| [0049-group-anagrams](https://github.com/adhavan18/leet/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/adhavan18/leet/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/adhavan18/leet/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/adhavan18/leet/tree/master/0066-plus-one) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/adhavan18/leet/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/adhavan18/leet/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/adhavan18/leet/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/adhavan18/leet/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/adhavan18/leet/tree/master/0242-valid-anagram) |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/adhavan18/leet/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/adhavan18/leet/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/adhavan18/leet/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/adhavan18/leet/tree/master/0242-valid-anagram) |
@@ -387,6 +390,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/adhavan18/leet/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/adhavan18/leet/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/adhavan18/leet/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/adhavan18/leet/tree/master/0242-valid-anagram) |
