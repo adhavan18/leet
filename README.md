@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/adhavan18/leet/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/adhavan18/leet/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/adhavan18/leet/tree/master/0128-longest-consecutive-sequence) |
+| [0242-valid-anagram](https://github.com/adhavan18/leet/tree/master/0242-valid-anagram) |
 | [0756-pyramid-transition-matrix](https://github.com/adhavan18/leet/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/adhavan18/leet/tree/master/0840-magic-squares-in-grid) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/adhavan18/leet/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -338,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/adhavan18/leet/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/adhavan18/leet/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/adhavan18/leet/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/adhavan18/leet/tree/master/0344-reverse-string) |
 | [0696-count-binary-substrings](https://github.com/adhavan18/leet/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/adhavan18/leet/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -387,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/adhavan18/leet/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/adhavan18/leet/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/adhavan18/leet/tree/master/0242-valid-anagram) |
 | [0759-set-intersection-size-at-least-two](https://github.com/adhavan18/leet/tree/master/0759-set-intersection-size-at-least-two) |
 | [1200-minimum-absolute-difference](https://github.com/adhavan18/leet/tree/master/1200-minimum-absolute-difference) |
 | [1340-jump-game-v](https://github.com/adhavan18/leet/tree/master/1340-jump-game-v) |
