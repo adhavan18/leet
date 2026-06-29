@@ -1,5 +1,5 @@
 class Solution:
-    def merge(self, nums1, m, nums2, n):
-        for j in range(n):
-            nums1[m+j] = nums2[j]
-        nums1.sort()
+    def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
+        nums1[:] = nums1[:m] + nums2[:n]
+        return nums1.sort()
+        
