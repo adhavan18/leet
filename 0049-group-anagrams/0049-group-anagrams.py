@@ -1,10 +1,10 @@
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        create = {}
+        groups = {}
         for word in strs:
             key = "".join(sorted(word))
-            if key not in create:
-                create[key] = [word]
+            if key not in groups:
+                groups[key] = [word]
             else:
-                create[key].append(word)
-        return list(create.values())
+                groups[key].append(word)
+        return list(groups.values())
