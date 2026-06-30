@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/adhavan18/leet/tree/master/1207-unique-number-of-occurrences) |
 | [1345-jump-game-iv](https://github.com/adhavan18/leet/tree/master/1345-jump-game-iv) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/adhavan18/leet/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/adhavan18/leet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1674-minimum-moves-to-make-array-complementary](https://github.com/adhavan18/leet/tree/master/1674-minimum-moves-to-make-array-complementary) |
 | [1748-sum-of-unique-elements](https://github.com/adhavan18/leet/tree/master/1748-sum-of-unique-elements) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/adhavan18/leet/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1189-maximum-number-of-balloons](https://github.com/adhavan18/leet/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/adhavan18/leet/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/adhavan18/leet/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/adhavan18/leet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/adhavan18/leet/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/adhavan18/leet/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/adhavan18/leet/tree/master/1636-number-of-substrings-with-only-1s) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/adhavan18/leet/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/adhavan18/leet/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/adhavan18/leet/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/adhavan18/leet/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
