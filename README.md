@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/adhavan18/leet/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/adhavan18/leet/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2784-check-if-array-is-good](https://github.com/adhavan18/leet/tree/master/2784-check-if-array-is-good) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/adhavan18/leet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/adhavan18/leet/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/adhavan18/leet/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/adhavan18/leet/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -454,6 +455,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/adhavan18/leet/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2054-two-best-non-overlapping-events](https://github.com/adhavan18/leet/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/adhavan18/leet/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/adhavan18/leet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3453-separate-squares-i](https://github.com/adhavan18/leet/tree/master/3453-separate-squares-i) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/adhavan18/leet/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3488-closest-equal-element-queries](https://github.com/adhavan18/leet/tree/master/3488-closest-equal-element-queries) |
@@ -530,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/adhavan18/leet/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/adhavan18/leet/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2092-find-all-people-with-secret](https://github.com/adhavan18/leet/tree/master/2092-find-all-people-with-secret) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/adhavan18/leet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/adhavan18/leet/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/adhavan18/leet/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3863-power-grid-maintenance](https://github.com/adhavan18/leet/tree/master/3863-power-grid-maintenance) |
@@ -629,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/adhavan18/leet/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/adhavan18/leet/tree/master/2573-find-the-string-with-lcp) |
 | [2625-increment-submatrices-by-one](https://github.com/adhavan18/leet/tree/master/2625-increment-submatrices-by-one) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/adhavan18/leet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/adhavan18/leet/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/adhavan18/leet/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/adhavan18/leet/tree/master/3225-maximum-score-from-grid-operations) |
@@ -673,6 +677,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/adhavan18/leet/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/adhavan18/leet/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/adhavan18/leet/tree/master/2402-meeting-rooms-iii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/adhavan18/leet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/adhavan18/leet/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/adhavan18/leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/adhavan18/leet/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -792,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/adhavan18/leet/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/adhavan18/leet/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/adhavan18/leet/tree/master/2573-find-the-string-with-lcp) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/adhavan18/leet/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/adhavan18/leet/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/adhavan18/leet/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 ## Recursion
