@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/adhavan18/leet/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/adhavan18/leet/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/adhavan18/leet/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/adhavan18/leet/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/adhavan18/leet/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/adhavan18/leet/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/adhavan18/leet/tree/master/0347-top-k-frequent-elements) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/adhavan18/leet/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/adhavan18/leet/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/adhavan18/leet/tree/master/0125-valid-palindrome) |
+| [0127-word-ladder](https://github.com/adhavan18/leet/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/adhavan18/leet/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/adhavan18/leet/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/adhavan18/leet/tree/master/0344-reverse-string) |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/adhavan18/leet/tree/master/0127-word-ladder) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/adhavan18/leet/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1306-jump-game-iii](https://github.com/adhavan18/leet/tree/master/1306-jump-game-iii) |
 | [1345-jump-game-iv](https://github.com/adhavan18/leet/tree/master/1345-jump-game-iv) |
