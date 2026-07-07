@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3666-minimum-operations-to-equalize-binary-string](https://github.com/adhavan18/leet/tree/master/3666-minimum-operations-to-equalize-binary-string) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/adhavan18/leet/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/adhavan18/leet/tree/master/3753-total-waviness-of-numbers-in-range-ii) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/adhavan18/leet/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/adhavan18/leet/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Dynamic Programming
 |  |
