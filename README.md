@@ -347,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/adhavan18/leet/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/adhavan18/leet/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/adhavan18/leet/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adhavan18/leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/adhavan18/leet/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/adhavan18/leet/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/adhavan18/leet/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/adhavan18/leet/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/adhavan18/leet/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adhavan18/leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adhavan18/leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/adhavan18/leet/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/adhavan18/leet/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/adhavan18/leet/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/adhavan18/leet/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/adhavan18/leet/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/adhavan18/leet/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adhavan18/leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/adhavan18/leet/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/adhavan18/leet/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3531-count-covered-buildings](https://github.com/adhavan18/leet/tree/master/3531-count-covered-buildings) |
@@ -537,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2573-find-the-string-with-lcp](https://github.com/adhavan18/leet/tree/master/2573-find-the-string-with-lcp) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/adhavan18/leet/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adhavan18/leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adhavan18/leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/adhavan18/leet/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/adhavan18/leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/adhavan18/leet/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -643,6 +647,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/adhavan18/leet/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1748-sum-of-unique-elements](https://github.com/adhavan18/leet/tree/master/1748-sum-of-unique-elements) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/adhavan18/leet/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adhavan18/leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/adhavan18/leet/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3583-count-special-triplets](https://github.com/adhavan18/leet/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/adhavan18/leet/tree/master/3713-longest-balanced-substring-i) |
