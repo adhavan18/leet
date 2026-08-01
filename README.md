@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/adhavan18/leet/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/adhavan18/leet/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/adhavan18/leet/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/adhavan18/leet/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3531-count-covered-buildings](https://github.com/adhavan18/leet/tree/master/3531-count-covered-buildings) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/adhavan18/leet/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/adhavan18/leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/adhavan18/leet/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/adhavan18/leet/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/adhavan18/leet/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/adhavan18/leet/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/adhavan18/leet/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/adhavan18/leet/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/adhavan18/leet/tree/master/3623-count-number-of-trapezoids-i) |
@@ -301,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/adhavan18/leet/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/adhavan18/leet/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/adhavan18/leet/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/adhavan18/leet/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/adhavan18/leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/adhavan18/leet/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/adhavan18/leet/tree/master/3676-smallest-number-with-all-set-bits) |
