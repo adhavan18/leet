@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/adhavan18/leet/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0396-rotate-function](https://github.com/adhavan18/leet/tree/master/0396-rotate-function) |
 | [0485-max-consecutive-ones](https://github.com/adhavan18/leet/tree/master/0485-max-consecutive-ones) |
+| [0486-predict-the-winner](https://github.com/adhavan18/leet/tree/master/0486-predict-the-winner) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/adhavan18/leet/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0759-set-intersection-size-at-least-two](https://github.com/adhavan18/leet/tree/master/0759-set-intersection-size-at-least-two) |
 | [0840-magic-squares-in-grid](https://github.com/adhavan18/leet/tree/master/0840-magic-squares-in-grid) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/adhavan18/leet/tree/master/0067-add-binary) |
 | [0204-count-primes](https://github.com/adhavan18/leet/tree/master/0204-count-primes) |
 | [0396-rotate-function](https://github.com/adhavan18/leet/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/adhavan18/leet/tree/master/0486-predict-the-winner) |
 | [0788-rotated-digits](https://github.com/adhavan18/leet/tree/master/0788-rotated-digits) |
 | [0840-magic-squares-in-grid](https://github.com/adhavan18/leet/tree/master/0840-magic-squares-in-grid) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/adhavan18/leet/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/adhavan18/leet/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/adhavan18/leet/tree/master/0338-counting-bits) |
 | [0396-rotate-function](https://github.com/adhavan18/leet/tree/master/0396-rotate-function) |
+| [0486-predict-the-winner](https://github.com/adhavan18/leet/tree/master/0486-predict-the-winner) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/adhavan18/leet/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/adhavan18/leet/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/adhavan18/leet/tree/master/0799-champagne-tower) |
@@ -866,6 +869,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/adhavan18/leet/tree/master/0206-reverse-linked-list) |
+| [0486-predict-the-winner](https://github.com/adhavan18/leet/tree/master/0486-predict-the-winner) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/adhavan18/leet/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Minimum Spanning Tree
 |  |
@@ -902,4 +906,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/adhavan18/leet/tree/master/3620-network-recovery-pathways) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/adhavan18/leet/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
