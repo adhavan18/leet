@@ -230,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/adhavan18/leet/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/adhavan18/leet/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/adhavan18/leet/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/adhavan18/leet/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/adhavan18/leet/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/adhavan18/leet/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/adhavan18/leet/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -435,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/adhavan18/leet/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/adhavan18/leet/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/adhavan18/leet/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/adhavan18/leet/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/adhavan18/leet/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/adhavan18/leet/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/adhavan18/leet/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -554,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/adhavan18/leet/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/adhavan18/leet/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/adhavan18/leet/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/adhavan18/leet/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/adhavan18/leet/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/adhavan18/leet/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/adhavan18/leet/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
@@ -656,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/adhavan18/leet/tree/master/0401-binary-watch) |
 | [0756-pyramid-transition-matrix](https://github.com/adhavan18/leet/tree/master/0756-pyramid-transition-matrix) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/adhavan18/leet/tree/master/2174-next-greater-numerically-balanced-number) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/adhavan18/leet/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Counting
 |  |
 | ------- |
@@ -784,6 +788,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/adhavan18/leet/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/adhavan18/leet/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/adhavan18/leet/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/adhavan18/leet/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/adhavan18/leet/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Tree
 |  |
